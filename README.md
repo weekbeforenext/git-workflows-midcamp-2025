@@ -44,7 +44,7 @@ This project was created for the *Introduction to Agile and Git Workflows for We
     ```
     git add -p
     ```
-    [Interactive mode with patch subcommands](https://git-scm.com/docs/git-add#Documentation/git-add.txt--p) will allow you to review each change and intentionally stage it with  [patch subcommands](https://git-scm.com/docs/git-add#Documentation/git-add.txt--p).
+    [Interactive mode with patch subcommands](https://git-scm.com/docs/git-add#Documentation/git-add.txt--p) will allow you to review each change and intentionally stage it with  [patch subcommands](https://git-scm.com/docs/git-add#Documentation/git-add.txt-patch).
 4. Once everything is staged, run the following command to commit your changes to your feature branch:
 
     ```
