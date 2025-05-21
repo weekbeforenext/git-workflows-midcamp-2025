@@ -1,0 +1,3 @@
+# The Midnight Library Adventure
+
+You discover a hidden door in your local library that leads to a magical world...
