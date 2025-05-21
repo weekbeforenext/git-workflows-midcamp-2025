@@ -1,6 +1,7 @@
 # Stories
 
-1. [Golf with Markie on the Lakefront](golf-with-markie-on-the-lakefront.md)
+1. [5-music-sound.md](5-music-sound.md)
+2. [Golf with Markie on the Lakefront](golf-with-markie-on-the-lakefront.md)
 2. [My best friend is a dragon](my-best-friend-is-a-dragon-example.md)
 3. [The Creeping Cryptid](the-creeping-cryptid-7.md)
 4. [Wrong building](wrong-building-8.md)
